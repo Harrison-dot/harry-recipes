@@ -1,0 +1,22 @@
+ body {
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ h1 {
+    font-size: 80px;
+    text-align: center;
+    color: crimson;
+    border: 100px color(purple);
+    padding: 5px;
+    margin: 20px;
+ }
+
+ h1.Bananax {
+    color: chocolate;
+ }
+
+ h3 {
+    color: darkred;
+    font-size: 30px;
+    font-style: italic;
+ }
